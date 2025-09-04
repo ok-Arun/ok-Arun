@@ -16,9 +16,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ok-Arun&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![][(https://github-contributor-stats.vercel.app/api?username=ok-Arun&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/ok-Arun/ERP_AndroidStudio_project)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ok-Arun&icon=0&color=1)](https://visitcount.itsvg.in)
+[![][(https://visitcount.itsvg.in/api?id=ok-Arun&icon=0&color=1)](https://visitcount.itsvg.in)](https://github.com/ok-Arun/OnlineBankingSystem_Java_Project)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
